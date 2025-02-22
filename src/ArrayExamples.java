@@ -13,6 +13,7 @@ public class ArrayExamples {
                 {4, 5, 6},
                 {7, 8, 9}
         };
+
         System.out.println("2D Array:");
         for (int[] row : twoDArray) {
             System.out.println(Arrays.toString(row));
